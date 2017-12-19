@@ -1,0 +1,12 @@
+Livraison/
+**/.svn
+**/*.releaseBackup
+**/release.properties
+**/generated/
+**/.settings/
+**/.classpath
+**/.project
+**/target/
+**/*.pid
+**/*.iml
+.idea/
